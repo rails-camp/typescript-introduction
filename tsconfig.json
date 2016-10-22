@@ -1,0 +1,8 @@
+{
+	"compilerOptions": {
+		"sourceMap": true
+	},
+	"files": [
+		"016_function_args.ts"
+	]
+}
