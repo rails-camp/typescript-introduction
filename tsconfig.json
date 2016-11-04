@@ -1,8 +1,13 @@
 {
 	"compilerOptions": {
+		"module": "amd",
+		// "target": "es6", // sudo typings install dt~es6-promise dt~es6-collections --global --save
+		"target": "ES5",
+		"experimentalDecorators": true,
+		"emitDecoratorMetadata" : true,
 		"sourceMap": true
 	},
 	"files": [
-		"016_function_args.ts"
+		"033_decorator_example_angular.ts"
 	]
 }
